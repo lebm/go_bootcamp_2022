@@ -48,6 +48,7 @@ func main() {
 	// Uses "zero" values when not declared
 	fmt.Println(salary, firstName, gender)
 
+	// variables is allways initialized, if a RHS expression is not provided, go uses the "zero value" of the type
 	var a, b, c int
 	fmt.Println(a, b, c)
 
