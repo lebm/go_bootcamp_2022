@@ -22,7 +22,7 @@ https://pkg.go.dev/std
 https://go.dev/play/  
 https://gobyexample.com/  
 https://pkg.go.dev/  
-
+https://go.dev/blog/constants  
 
 ## Name conventions (idiomatic go)
 * Use camel case
