@@ -1,8 +1,20 @@
-# Master Go (Golang) Programming:The Complete Go Bootcamp 2022 -  Udemy course
+# Master Go (Golang) Programming:The Complete Go Bootcamp 2023 -  Udemy course
 
 Snippets of code and notes
 
 ## TIPS
+
+```
+go env
+go run .
+go run main.go
+go run -x main.go
+go build
+go build -o app
+gofmt -w main.go
+gofmt -w -l dir/
+go fmt
+```
 
 ### Cross compiling
 ```
@@ -22,6 +34,7 @@ https://pkg.go.dev/std
 https://go.dev/play/  
 https://gobyexample.com/  
 https://pkg.go.dev/  
+https://goplay.tools/
 
 
 ## Name conventions (idiomatic go)
