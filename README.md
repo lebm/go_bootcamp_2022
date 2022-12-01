@@ -29,6 +29,7 @@ https://go.dev/ref/spec
 https://go.dev/doc/effective_go  
 https://go.dev/doc/  
 https://pkg.go.dev/std  
+https://go.dev/blog/constants
 
 ## Useful sites
 https://go.dev/play/  
