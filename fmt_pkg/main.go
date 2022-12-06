@@ -36,4 +36,6 @@ func main() {
 	y := 6.9
 	fmt.Printf("x * y = %f\n", x*y)
 	fmt.Printf("x * y = %f.3\n", x*y)
+	msg := "Isso é uma mensagem"
+	fmt.Printf("Teste %q\n", msg)
 }

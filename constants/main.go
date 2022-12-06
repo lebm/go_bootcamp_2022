@@ -5,5 +5,5 @@ func main() {
 	// Constant must be initialized
 	const days int = 7
 
-	const i int
+	const i = 1
 }
